@@ -365,3 +365,6 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+#optml2023schedule tr.r1{font-weight: bold;}
+#optml2023schedule {border-collapse: separate;}

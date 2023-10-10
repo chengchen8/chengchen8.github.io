@@ -1,0 +1,64 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+= Publications
+
+== Preprints
+
+- *Symmetric Rank-k Methods.*\n
+Chengchang Liu, *Cheng Chen*, Luo Luo.\n
+arXiv preprint:2303.16188, 2023.
+
+== Conference Publications
+
+- *Block Broyden's Methods for Solving Nonlinear Equations.*\n
+Chengchang Liu, *Cheng Chen*\#, Luo Luo, John C.S. Lui.\n
+The 37th Conference on Neural Information Processing Systems (NeurIPS), 2023. (To appear)\n
+
+- *Boosting Verification of Deep Reinforcement Learning via Piece-Wise Linear Decision Neural Networks.*\n
+Jiaxu Tian, Dapeng Zhi, Si Liu, Peixin Wang, *Cheng Chen*, Min Zhang.\n
+The 37th Conference on Neural Information Processing Systems (NeurIPS), 2023. (To appear)\n
+
+- *Finding Second-Order Stationary Points in Nonconvex-Strongly-Concave Minimax Optimization.*\n
+Luo Luo, Yujun Li, *Cheng Chen*\#.\n
+The 36th Conference on Neural Information Processing Systems (NeurIPS), 2022.\n
+
+- *Online Active Regression.*\n
+*Cheng Chen*, Yi Li, Yiming Sun.\n
+The 39th International Conference on Machine Learning (ICML), 2022. {{<font color=red>}}Long Talk{{</font>}}\n
+
+- *Simultaneously Learning Stochastic and Adversarial Bandits under the Position-Based Model.*\n
+*Cheng Chen*, Canzhe Zhao, Shuai Li.\n
+The 36th AAAI Conference on Artificial Intelligence (AAAI), 2022.
+
+- *Revisiting Co-Occurring Directions: Sharper Analysis and Efficient Algorithm for Sparse Matrices.*\n
+Luo Luo, *Cheng Chen*\#, Guangzeng Xie, Haishan Ye.\n
+The 35th AAAI Conference on Artificial Intelligence (AAAI), 2021.\n
+
+- *Efficient Projection-Free Algorithms for Saddle Point Problems.*\n
+*Cheng Chen*, Luo Luo, Weinan Zhang, Yong Yu.\n
+The 34th Conference on Neural Information Processing Systems (NeurIPS), 2020.\n
+
+- *Efficient and Robust High-Dimensional Linear Contextual Bandits.*\n
+*Cheng Chen*, Luo Luo, Weinan Zhang, Yong Yu, Yijiang Lian.\n
+The 29th International Joint Conference on Artificial Intelligence (IJCAI), 2020.\n
+
+- *Efficient Spectrum-Revealing CUR Matrix Decomposition.*\n
+*Cheng Chen*, Ming Gu, Zhihua Zhang, Weinan Zhang, Yong Yu.\n
+The 23th International Conference on Artificial Intelligence and Statistics (AISTATS), 2020.\n
+
+== Journal Papers
+
+- *Efficient Policy Evaluation by Matrix Sketching.*\n
+*Cheng Chen*, Weinan Zhang, Yong Yu.\n
+Frontiers of Computer Science. 16.5 (2022): 1-9.
+
+- *Robust Frequent Directions with Application in Online Learning.*\n
+Luo Luo, *Cheng Chen*, Zhihua Zhang, Wu-Jun Li, Tong Zhang.\n
+Journal of Machine Learning Research. 20: 45:1-45:41 (2019).\n
+
+- *Fast Fisher discriminant analysis with randomized algorithms.*\n
+Haishan Ye, Yujun Li, *Cheng Chen*, Zhihua Zhang.\n
+Pattern Recognition. 72: 82-92 (2017).\n
+
+- *Multicategory large margin classification methods: Hinge losses vs. coherence functions.*\n
+Zhihua Zhang, *Cheng Chen*, Guang Dai, Wu-Jun Li, Dit-Yan Yeung.\n
+Artificial Intelligence. 215: 55-78 (2014).\n
