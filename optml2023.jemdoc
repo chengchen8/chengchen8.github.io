@@ -17,7 +17,7 @@ Your grade will be determined by assignments (50\%), a project (40\%) and partic
 Date | Topic | Material | Homework ||
 9.20. | Introduction; Basic Mathematics | [optml2023/OptML_01.pdf slides] | [optml2023/OptML_hw1.pdf hw], [optml2023/OptML_sol1.pdf sol] ||
 9.27. | Convex sets; Convex functions | [optml2023/OptML_02.pdf slides], [optml2023/Notes_L2.pdf notes] | [optml2023/OptML_hw2.pdf hw], [optml2023/OptML_sol2.pdf sol] ||
-10.11. | Gradient descent; Smooth & Strongly convex | [optml2023/OptML_03.pdf slides] | [optml2023/OptML_hw3.pdf hw] ||
-10.18. | More on gradient descent |  [optml2023/OptML_04.pdf slides] | [optml2023/OptML_hw4.zip hw] ||
+10.11. | Gradient descent; Smooth & Strongly convex | [optml2023/OptML_03.pdf slides] | [optml2023/OptML_hw3.pdf hw], [optml2023/OptML_sol3.pdf sol] ||
+10.18. | More on gradient descent |  [optml2023/OptML_04.pdf slides] | [optml2023/OptML_hw4.zip hw], [optml2023/OptML_sol4.zip sol] ||
 11.1. | Constrained convex optimization | [optml2023/OptML_05.pdf slides] | [optml2023/OptML_hw5.pdf hw]
 ~~~
