@@ -19,6 +19,6 @@ Date | Topic | Material | Homework ||
 9.27. | Convex sets; Convex functions | [optml2023/OptML_02.pdf slides], [optml2023/Notes_L2.pdf notes] | [optml2023/OptML_hw2.pdf hw], [optml2023/OptML_sol2.pdf sol] ||
 10.11. | Smooth & Strongly convex; Gradient descent | [optml2023/OptML_03.pdf slides] | [optml2023/OptML_hw3.pdf hw], [optml2023/OptML_sol3.pdf sol] ||
 10.18. | More on gradient descent |  [optml2023/OptML_04.pdf slides] | [optml2023/OptML_hw4.zip hw], [optml2023/OptML_sol4.zip sol] ||
-11.1. | Projected gradient descent; Frank-Wolfe algorithm | [optml2023/OptML_05.pdf slides] | [optml2023/OptML_hw5.pdf hw] ||
+11.1. | Projected gradient descent; Frank-Wolfe algorithm | [optml2023/OptML_05.pdf slides] | [optml2023/OptML_hw5.pdf hw], [optml2023/OptML_sol5.pdf sol] ||
 11.8. | Subgradient; Subgradient descent |  [optml2023/OptML_06.pdf slides] | [optml2023/OptML_hw6.pdf hw] 
 ~~~
