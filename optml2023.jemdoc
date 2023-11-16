@@ -20,5 +20,6 @@ Date | Topic | Material | Homework ||
 10.11. | Smooth & Strongly convex; Gradient descent | [optml2023/OptML_03.pdf slides] | [optml2023/OptML_hw3.pdf hw], [optml2023/OptML_sol3.pdf sol] ||
 10.18. | More on gradient descent |  [optml2023/OptML_04.pdf slides] | [optml2023/OptML_hw4.zip hw], [optml2023/OptML_sol4.zip sol] ||
 11.1. | Projected gradient descent; Frank-Wolfe algorithm | [optml2023/OptML_05.pdf slides] | [optml2023/OptML_hw5.pdf hw], [optml2023/OptML_sol5.pdf sol] ||
-11.8. | Subgradient; Subgradient descent |  [optml2023/OptML_06.pdf slides] | [optml2023/OptML_hw6.pdf hw] 
+11.8. | Subgradient; Subgradient descent |  [optml2023/OptML_06.pdf slides] | [optml2023/OptML_hw6.pdf hw] ||
+11.15. | Proximal operator; Proximal gradient descent |  [optml2023/OptML_07.pdf slides] | [optml2023/OptML_hw7.zip hw] 
 ~~~
