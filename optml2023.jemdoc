@@ -20,6 +20,47 @@ Date | Topic | Material | Homework ||
 10.11. | Smooth & Strongly convex; Gradient descent | [optml2023/OptML_03.pdf slides] | [optml2023/OptML_hw3.pdf hw], [optml2023/OptML_sol3.pdf sol] ||
 10.18. | More on gradient descent |  [optml2023/OptML_04.pdf slides] | [optml2023/OptML_hw4.zip hw], [optml2023/OptML_sol4.zip sol] ||
 11.1. | Projected gradient descent; Frank-Wolfe algorithm | [optml2023/OptML_05.pdf slides] | [optml2023/OptML_hw5.pdf hw], [optml2023/OptML_sol5.pdf sol] ||
-11.8. | Subgradient; Subgradient descent |  [optml2023/OptML_06.pdf slides] | [optml2023/OptML_hw6.pdf hw] ||
-11.15. | Proximal operator; Proximal gradient descent |  [optml2023/OptML_07.pdf slides] | [optml2023/OptML_hw7.zip hw] 
+11.8. | Subgradient; Subgradient descent |  [optml2023/OptML_06.pdf slides] | [optml2023/OptML_hw6.pdf hw], [optml2023/OptML_sol6.pdf sol] ||
+11.15. | Proximal operator; Proximal gradient descent |  [optml2023/OptML_07.pdf slides] | [optml2023/OptML_hw7.zip hw] ||
+11.23. | Accelerated gradient methods; Newton and quasi-Newton methods |  [optml2023/OptML_08.pdf slides] | [optml2023/fista.pdf reading material] ||
+11.30. | Stochastic gradient descent; Variance Reduction | |
 ~~~
+
+\n
+*Project*\n
+The course project can either be a practical implementation or a literature review:
+. *Practical implementation:* You are encouraged to investigate an optimization algorithm for a machine learning application and gain insight into that algorithm. You should provide empirical evidence for the behavior of your chosen optimization algorithm or modification. The optimization algorithms can be anything of your choice. {{<font color=red>}}You need to submit your code and a report which is up to 3 pages (with unlimited page for references and appendix).{{</font>}} Your report should look like the "Experiments" section of a machine learning paper.
+. *Literature review:* You are encouraged to review a topic related to optmization. The literature review should involve in-depth summaries of the theoretical results and provide empirical comparision of representative algorithms. {{<font color=red>}}If you choose this option, you can do it either individually or in groups of up to 3 students. Project report is up to 6 pages (with unlimited page for references and appendix).{{</font>}}
+
+*Requirement*\n
+. You need to submit an English report and your code. The submission deadline is January 7th, 2024. 
+. You are required to use Latex to write the report. We suggest you to use the [optml2023/icml2023.zip ICML templete].
+. Plagiarism is strictly prohibited, and it is unacceptable to duplicate entire sentences from other sources. 
+
+*Topic examples for practical implementation*\n
+These areas are just mentioned for illustration, and you’re welcome to choose topics not in the list.\n
+- Local minima for deep learning: Can you find differences between the 'shape' of local minima that SGD finds, vs e.g. AdaGrad or full gradient descent?
+- Meta-Learning: Can you learn the learning rate? See AutoML.
+- Zero-order optimization methods for ML applications.
+- performance of quantized SGD. Is it different for deep learning as compared to linear ML models?
+- How do different optimization variants affect generalization (test error)?
+- Practical second-order ideas in deep learning: E.g. pre-conditioning as in shampoo, or AdaHessian.
+- Distributed optimization algorithms.
+- \...
+
+
+*Topic examples for literature review*\n
+You are encouraged to freely choose very different topics as long as they concern optimization for machine learning.\n
+- Esacape from saddle points in nonconvex optimization, e.g., 
+/"Sharp analysis for nonconvex sgd escaping from saddle points", C. Fang, Z. Lin, and T. Zhang, 2019./
+- Minimax optimization, e.g., /"On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems", T. Lin, J. Chi, and M. Jordan, ICML 2020./
+- Acceleration for variance reduction, e.g., /"Katyusha: The First Direct Acceleration of Stochastic Gradient Methods", Z. Allen-Zhu, STOC 2017./
+- Variance reduction for nonconvex optimization, e.g., /"Spider: Near-optimal non-convex optimization via stochastic path-integrated differential estimator", C. Fang, C. Li, Z. Lin, T. Zhang, NeurIPS 2018./
+- Adam-like algorithms, e.g., /"On the convergence of Adam and beyond", S. Reddi, S. Kale, S. Kumar, ICLR 2018./
+- Federated learning, e.g., /"On the convergence of fedavg on non-iid data", X. Li, K. Huang, W. Yang, S. Wang, Z. Zhang, ICLR 2020./
+- Bilevel optimization, e.g., /"A Fully First-Order Method for Stochastic Bilevel Optimization", J. Kwon, D. Kwon, S. Wright, R. Nowak, ICML 2023./
+- Explicit superlinear convergence of quasi-Newton methods, e.g., /"Greedy quasi-Newton methods with explicit superlinear convergence", A. Rodomanov and Y. Nesterov.  SIAM Journal on Optimization, 31(1):785–811, 2021/
+- Zeroth-order optimization, e.g., /"Random gradient-free minimization of convex functions", Y. Nesterov, V. Spokoiny, Foundations of Computational Mathematics, 17(2):527–566, 2017./
+- Nonsmooth nonconvex optimization, e.g., /"Complexity of Finding Stationary Points of Nonsmooth Nonconvex Functions", J. Zhang, H. Lin, S. Jegelka, S. Sra, A. Jadbabaie, ICML 2020./
+- \...
+
