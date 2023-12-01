@@ -23,7 +23,7 @@ Date | Topic | Material | Homework ||
 11.8. | Subgradient; Subgradient descent |  [optml2023/OptML_06.pdf slides] | [optml2023/OptML_hw6.pdf hw], [optml2023/OptML_sol6.pdf sol] ||
 11.15. | Proximal operator; Proximal gradient descent |  [optml2023/OptML_07.pdf slides] | [optml2023/OptML_hw7.zip hw] ||
 11.22. | Accelerated gradient methods; Newton and quasi-Newton methods |  [optml2023/OptML_08.pdf slides] | [optml2023/fista.pdf reading material] ||
-11.29. | Stochastic gradient descent; Variance Reduction | |
+11.29. | Stochastic gradient descent; Variance Reduction | [optml2023/OptML_09.pdf slides] | [optml2023/OptML_hw8.pdf hw]
 ~~~
 
 \n
