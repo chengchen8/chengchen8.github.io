@@ -9,9 +9,17 @@ arXiv preprint:2303.16188, 2023.
 
 == Conference Publications
 
+- *Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination.* \n
+Ming Hu, Zhihao Yue, Xiaofei Xie, *Cheng Chen*, Yihao Huang, Xian Wei, Xiang Lian, Yang Liu, Mingsong Chen.\n
+Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD Research Track), 2024. (To appear)\n
+
+- *Approximate Matrix Multiplication over Sliding Windows.* \n
+Ziqi Yao, Lianzhi Li, Mingsong Chen, Xian Wei, *Cheng Chen*\#. \n
+Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD Research Track), 2024. (To appear)\n
+
 - *Zeroth-Order Methods for Constrained Nonconvex Nonsmooth Stochastic Optimization.*\n
 Zhuanghua Liu, *Cheng Chen*, Luo Luo, Bryan Kian Hsiang Low.\n
-The 41st International Conference on Machine Learning (ICML), 2024. (To appear)\n
+The 41st International Conference on Machine Learning (ICML), 2024. {{<font color=red>}}Oral{{</font>}} (To appear)\n
 
 - *Robustness Verification of Deep Reinforcement Learning Based Control Systems using Reward Martingales.*\n
 Dapeng Zhi, Peixin Wang, *Cheng Chen*, Min Zhang.\n
