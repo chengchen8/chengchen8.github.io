@@ -1,0 +1,20 @@
+# jemdoc: optml2024.html, nofooter
+= Optimization in Machine Learning (Fall 2024)
+
+*Lecture Information*\n
+Tue 13:00-14:35 at Wenshi Building 211\n\n
+*Grading*\n
+Your grade will be determined by assignments (40\%) and a project (60\%).\n\n
+
+*Teaching Staffs*\n
+- Instructor: [https://chengchen8.github.io Cheng Chen], 201E Math Building, chchen@sei.ecnu.edu.cn
+- Teaching Asistant: Zicheng Hu (51275902019@stu.ecnu.edu.cn); Tingkai Jia (51275902086@stu.ecnu.edu.cn)
+
+*Schedule*\n
+
+~~~
+{}{table}{optml2024schedule}
+Date | Topic | Material ||
+9.24. | Introduction; Basic mathematics | - 
+~~~
+
