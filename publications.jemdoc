@@ -9,6 +9,10 @@ arXiv preprint:2303.16188, 2023.
 
 == Conference Publications
 
+- *Few-Shot Diffusion Models Escape the Curse of Dimensionality. (Accepted)* \n
+Ruofeng Yang, Bo Jiang, *Cheng Chen*, Ruinan Jin, Baoxiang Wang, Shuai Li. \n
+The 38th Conference on Neural Information Processing Systems (NeurIPS), 2024. \n
+
 - *Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination.* \n
 Ming Hu, Zhihao Yue, Xiaofei Xie, *Cheng Chen*, Yihao Huang, Xian Wei, Xiang Lian, Yang Liu, Mingsong Chen.\n
 Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD Research Track), 2024.\n
