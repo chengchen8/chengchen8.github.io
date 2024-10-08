@@ -14,7 +14,8 @@ Your grade will be determined by assignments (40\%) and a project (60\%).\n\n
 
 ~~~
 {}{table}{optml2024schedule}
-Date | Topic | Material ||
-9.24. | Introduction; Basic mathematics | [optml2024/OptML_01.pdf slides] 
+Date | Topic | Material | Homework ||
+9.24. | Introduction; Basic mathematics | [optml2024/OptML_01.pdf slides] | - ||
+10.8. | Matrix calculus; Convex set | [optml2024/OptML_02.pdf slides] | [optml2024/OptML_hw01.pdf problems] 
 ~~~
 
