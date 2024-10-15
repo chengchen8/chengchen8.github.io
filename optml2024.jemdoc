@@ -10,12 +10,16 @@ Your grade will be determined by assignments (40\%) and a project (60\%).\n\n
 - Instructor: [https://chengchen8.github.io Cheng Chen], 201E Math Building, chchen@sei.ecnu.edu.cn
 - Teaching Asistant: Zicheng Hu (51275902019@stu.ecnu.edu.cn); Tingkai Jia (51275902086@stu.ecnu.edu.cn)
 
+*References*\n
+- Amir Beck. [https://epubs.siam.org/doi/10.1137/1.9781611974997 First-Order Methods in Optimization.] MOS-SIAM Series on Optimization, 2017.
+
 *Schedule*\n
 
 ~~~
 {}{table}{optml2024schedule}
-Date | Topic | Material | Homework ||
-9.24. | Introduction; Basic mathematics | [optml2024/OptML_01.pdf slides] | - ||
-10.8. | Matrix calculus; Convex set | [optml2024/OptML_02.pdf slides] | [optml2024/OptML_hw01.pdf problems] 
+Date | Topic | Slides | Homework | Material ||
+9.24. | Introduction; Basic mathematics | [optml2024/OptML_01.pdf Lecture 1] | - | [optml2024/Notes1.pdf Notes 1] ||
+10.8. | Matrix calculus; Convex set | [optml2024/OptML_02.pdf Lecture 2] | [optml2024/OptML_hw01.pdf problems] | [optml2024/Notes2.pdf Notes 2] ||
+10.15. | Convex function; Subgradient |  [optml2024/OptML_03.pdf Lecture 3] | [optml2024/OptML_hw02.pdf problems] |
 ~~~
 
