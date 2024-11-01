@@ -20,7 +20,7 @@ Your grade will be determined by assignments (40\%) and a project (60\%).\n\n
 Date | Topic | Slides | Homework | Material ||
 9.24. | Introduction; Basic mathematics | [optml2024/OptML_01.pdf Lecture 1] | - | [optml2024/Notes1.pdf Notes 1] ||
 10.8. | Matrix calculus; Convex set | [optml2024/OptML_02.pdf Lecture 2] | [optml2024/OptML_hw01.pdf problems], [optml2024/OptML_sol01.pdf solution] | [optml2024/Notes2.pdf Notes 2] ||
-10.15. | Convex function; Subgradient |  [optml2024/OptML_03.pdf Lecture 3] | [optml2024/OptML_hw02.pdf problems] | [optml2024/Notes3.pdf Notes 3] ||
-10.29. | Gradient descent; smoothness and strongly convex |  [optml2024/OptML_04.pdf Lecture 4] | [optml2024/OptML_hw03.pdf problems] | 
+10.15. | Convex function; Subgradient |  [optml2024/OptML_03.pdf Lecture 3] | [optml2024/OptML_hw02.pdf problems], [optml2024/OptML_sol02.pdf solution] | [optml2024/Notes3.pdf Notes 3] ||
+10.29. | Gradient descent; smoothness and strongly convex |  [optml2024/OptML_04.pdf Lecture 4] | [optml2024/OptML_hw03.pdf problems] | [optml2024/Notes4.pdf Notes 4]
 ~~~
 
