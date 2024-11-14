@@ -23,6 +23,6 @@ Date | Topic | Slides | Homework | Material ||
 10.15. | Convex function; Subgradient |  [optml2024/OptML_03.pdf Lecture 3] | [optml2024/OptML_hw02.pdf problems], [optml2024/OptML_sol02.pdf solution] | [optml2024/Notes3.pdf Notes 3] ||
 10.29. | Gradient descent; smoothness and strongly convex |  [optml2024/OptML_04.pdf Lecture 4] | [optml2024/OptML_hw03.pdf problems] [optml2024/OptML_sol03.pdf solution] | [optml2024/Notes4.pdf Notes 4] ||
 11.5. | More on gradient descent | [optml2024/OptML_05.pdf Lecture 5] | [optml2024/OptML_hw04.pdf problems] | [optml2024/Notes5.pdf Notes 5] ||
-11.12. | Projected gradient descent | [optml2024/OptML_06.pdf Lecture 6] | [optml2024/OptML_hw05.pdf problems] | 
+11.12. | Projected gradient descent | [optml2024/OptML_06.pdf Lecture 6] | [optml2024/OptML_hw05.pdf problems] | [optml2024/Notes6.pdf Notes 6]
 ~~~
 
