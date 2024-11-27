@@ -12,23 +12,23 @@
 <div id="toptitle">
 <h1>Optimization in Machine Learning (Fall 2024)</h1>
 </div>
-<p><b>Lecture Information</b><br />
-Tue 13:00-14:35 at Wenshi Building 211<br /><br />
-<b>Grading</b><br />
-Your grade will be determined by assignments (40%) and a project (60%).<br /><br /></p>
-<p><b>Teaching Staffs</b><br /></p>
+<h3><b>Lecture Information</b><br /></h3>
+<p>Tue 13:00-14:35 at Wenshi Building 211<br /><br /></p>
+<h3><b>Grading</b><br /></h3>
+<p>Your grade will be determined by assignments (40%) and a project (60%).<br /><br /></p>
+<h3><b>Teaching Staffs</b><br /></h3>
 <ul>
 <li><p>Instructor: <a href="https://chengchen8.github.io">Cheng Chen</a>, 201E Math Building, chchen@sei.ecnu.edu.cn</p>
 </li>
 <li><p>Teaching Asistant: Zicheng Hu (51275902019@stu.ecnu.edu.cn); Tingkai Jia (51275902086@stu.ecnu.edu.cn)</p>
 </li>
 </ul>
-<p><b>References</b><br /></p>
+<h3><b>References</b><br /></h3>
 <ul>
 <li><p>Amir Beck. <a href="https://epubs.siam.org/doi/10.1137/1.9781611974997">First-Order Methods in Optimization.</a> MOS-SIAM Series on Optimization, 2017.</p>
 </li>
 </ul>
-<p><b>Schedule</b><br /></p>
+<h3><b>Schedule</b><br /></h3>
 <table id="optml2024schedule">
 <tr class="r1"><td class="c1">Date </td><td class="c2"> Topic </td><td class="c3"> Slides </td><td class="c4"> Homework </td><td class="c5"> Material </td></tr>
 <tr class="r2"><td class="c1">9.24. </td><td class="c2"> Introduction; Basic mathematics </td><td class="c3"> <a href="optml2024/OptML_01.pdf">Lecture 1</a> </td><td class="c4"> - </td><td class="c5"> <a href="optml2024/Notes1.pdf">Notes 1</a> </td></tr>
@@ -40,6 +40,65 @@ Your grade will be determined by assignments (40%) and a project (60%).<br /><br
 <tr class="r8"><td class="c1">11.19. </td><td class="c2"> Subgradient descent  </td><td class="c3"> <a href="optml2024/OptML_07.pdf">Lecture 7</a> </td><td class="c4"> <a href="optml2024/OptML_hw06.pdf">problems</a> </td><td class="c5"> <a href="optml2024/Notes7.pdf">Notes 7</a> </td></tr>
 <tr class="r9"><td class="c1">11.26. </td><td class="c2"> Proximal gradient descent  </td><td class="c3"> <a href="optml2024/OptML_08.pdf">Lecture 8</a> </td><td class="c4"> <a href="optml2024/OptML_hw07.zip">problems</a> </td><td class="c5"> 
 </td></tr></table>
+<p><br /></p>
+<h3><b>Project</b><br /></h3>
+<p>Projects will be evaluated based on a combination of:</p>
+<ol>
+<li><p>presentation (40%), at Tuesday of the 18th week</p>
+</li>
+<li><p>final report (60%) </p>
+</li>
+</ol>
+<p><b>Projects can either be individual or in teams of size up to 3 students.</b> In the team case, you must clearly describe who contributed which parts of the project, and the contributions should be roughly equal. Obviously, it is expected that a team project makes more progress than an individual project.</p>
+<p>Various types of projects are possible. Some examples include:</p>
+<ul>
+<li><p><b>optimization in application:</b> you have some particular application that involves solving some type of optimization problem. You explore the performance of different algorithms for this setting.</p>
+</li>
+<li><p><b>methodology projects:</b> you are interested in understanding the properties of some class of optimization algorithms.</p>
+</li>
+<li><p><b>survey projects:</b> you are interested in learning more deeply about a particular area of the course that we touched on, so you read a number of papers in the area and summarize your findings.</p>
+</li>
+<li><p><b>a new algorithm:</b> you have an idea for a new kind of optimization algorithm, and would like to study/explore it.</p>
+</li>
+</ul>
+<p><b>Requirements</b><br /></p>
+<ol>
+<li><p>You need to submit an English report and your code. <font color=red>For individual project, the report should be up to 6 pages (with unlimited pages for references and appendix). For team project, the report should be up to 8 pages (with unlimited pages for references and appendix). The submission deadline is January 14th, 2025. </font></p>
+</li>
+<li><p>You are required to use <b>Latex</b> to write the report. We suggest you to use this <a href="optml2024/template.zip">templete</a>.</p>
+</li>
+<li><p>Plagiarism is strictly prohibited, and it is unacceptable to duplicate entire sentences or figures from other sources.</p>
+</li>
+</ol>
+<p><b>Topic examples</b><br />
+These areas are just mentioned for illustration. You are encouraged to freely choose very different topics as long as they concern optimization for machine learning.<br /></p>
+<ul>
+<li><p>Esacape from saddle points in nonconvex optimization, e.g., 
+<i>&ldquo;Sharp analysis for nonconvex sgd escaping from saddle points&rdquo;, C. Fang, Z. Lin, and T. Zhang, 2019.</i></p>
+</li>
+<li><p>Minimax optimization, e.g., <i>&ldquo;On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems&rdquo;, T. Lin, J. Chi, and M. Jordan, ICML 2020.</i></p>
+</li>
+<li><p>Acceleration for variance reduction, e.g., <i>&ldquo;Katyusha: The First Direct Acceleration of Stochastic Gradient Methods&rdquo;, Z. Allen-Zhu, STOC 2017.</i></p>
+</li>
+<li><p>Variance reduction for nonconvex optimization, e.g., <i>&ldquo;Spider: Near-optimal non-convex optimization via stochastic path-integrated differential estimator&rdquo;, C. Fang, C. Li, Z. Lin, T. Zhang, NeurIPS 2018.</i></p>
+</li>
+<li><p>Adam-like algorithms, e.g., <i>&ldquo;On the convergence of Adam and beyond&rdquo;, S. Reddi, S. Kale, S. Kumar, ICLR 2018.</i></p>
+</li>
+<li><p>Federated learning, e.g., <i>&ldquo;On the convergence of fedavg on non-iid data&rdquo;, X. Li, K. Huang, W. Yang, S. Wang, Z. Zhang, ICLR 2020.</i></p>
+</li>
+<li><p>Bilevel optimization, e.g., <i>&ldquo;A Fully First-Order Method for Stochastic Bilevel Optimization&rdquo;, J. Kwon, D. Kwon, S. Wright, R. Nowak, ICML 2023.</i></p>
+</li>
+<li><p>Explicit superlinear convergence of quasi-Newton methods, e.g., <i>&ldquo;Greedy quasi-Newton methods with explicit superlinear convergence&rdquo;, A. Rodomanov and Y. Nesterov.  SIAM Journal on Optimization, 31(1):785–811, 2021</i></p>
+</li>
+<li><p>Zeroth-order optimization, e.g., <i>&ldquo;Random gradient-free minimization of convex functions&rdquo;, Y. Nesterov, V. Spokoiny, Foundations of Computational Mathematics, 17(2):527–566, 2017.</i></p>
+</li>
+<li><p>Nonsmooth nonconvex optimization, e.g., <i>&ldquo;Complexity of Finding Stationary Points of Nonsmooth Nonconvex Functions&rdquo;, J. Zhang, H. Lin, S. Jegelka, S. Sra, A. Jadbabaie, ICML 2020.</i></p>
+</li>
+<li><p>Parameter-free optimization, e.g., <i>&ldquo;On the convergence of stochastic gradient descent with adaptive stepsizes.&rdquo;, X. Li, F. Orabona, ICML 2023.</i></p>
+</li>
+<li><p>...</p>
+</li>
+</ul>
 </div>
 </body>
 </html>

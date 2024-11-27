@@ -1,19 +1,19 @@
 # jemdoc: optml2024.html, nofooter
 = Optimization in Machine Learning (Fall 2024)
 
-*Lecture Information*\n
+=== *Lecture Information*\n
 Tue 13:00-14:35 at Wenshi Building 211\n\n
-*Grading*\n
+=== *Grading*\n
 Your grade will be determined by assignments (40\%) and a project (60\%).\n\n
 
-*Teaching Staffs*\n
+=== *Teaching Staffs*\n
 - Instructor: [https://chengchen8.github.io Cheng Chen], 201E Math Building, chchen@sei.ecnu.edu.cn
 - Teaching Asistant: Zicheng Hu (51275902019@stu.ecnu.edu.cn); Tingkai Jia (51275902086@stu.ecnu.edu.cn)
 
-*References*\n
+=== *References*\n
 - Amir Beck. [https://epubs.siam.org/doi/10.1137/1.9781611974997 First-Order Methods in Optimization.] MOS-SIAM Series on Optimization, 2017.
 
-*Schedule*\n
+=== *Schedule*\n
 
 ~~~
 {}{table}{optml2024schedule}
@@ -27,4 +27,45 @@ Date | Topic | Slides | Homework | Material ||
 11.19. | Subgradient descent  | [optml2024/OptML_07.pdf Lecture 7] | [optml2024/OptML_hw06.pdf problems] | [optml2024/Notes7.pdf Notes 7] ||
 11.26. | Proximal gradient descent  | [optml2024/OptML_08.pdf Lecture 8] | [optml2024/OptML_hw07.zip problems] | 
 ~~~
+
+
+\n
+=== *Project*\n
+
+Projects will be evaluated based on a combination of:
+. presentation (40%), at Tuesday of the 18th week
+. final report (60%) 
+
+*Projects can either be individual or in teams of size up to 3 students.* In the team case, you must clearly describe who contributed which parts of the project, and the contributions should be roughly equal. Obviously, it is expected that a team project makes more progress than an individual project.
+
+
+Various types of projects are possible. Some examples include:
+- *optimization in application:* you have some particular application that involves solving some type of optimization problem. You explore the performance of different algorithms for this setting.
+- *methodology projects:* you are interested in understanding the properties of some class of optimization algorithms.
+- *survey projects:* you are interested in learning more deeply about a particular area of the course that we touched on, so you read a number of papers in the area and summarize your findings.
+- *a new algorithm:* you have an idea for a new kind of optimization algorithm, and would like to study/explore it.
+
+
+
+*Requirements*\n
+. You need to submit an English report and your code. {{<font color=red>}}For individual project, the report should be up to 6 pages (with unlimited pages for references and appendix). For team project, the report should be up to 8 pages (with unlimited pages for references and appendix). The submission deadline is January 14th, 2025. {{</font>}}
+. You are required to use *Latex* to write the report. We suggest you to use this [optml2024/template.zip templete].
+. Plagiarism is strictly prohibited, and it is unacceptable to duplicate entire sentences or figures from other sources.
+
+
+*Topic examples*\n
+These areas are just mentioned for illustration. You are encouraged to freely choose very different topics as long as they concern optimization for machine learning.\n
+- Esacape from saddle points in nonconvex optimization, e.g., 
+/"Sharp analysis for nonconvex sgd escaping from saddle points", C. Fang, Z. Lin, and T. Zhang, 2019./
+- Minimax optimization, e.g., /"On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems", T. Lin, J. Chi, and M. Jordan, ICML 2020./
+- Acceleration for variance reduction, e.g., /"Katyusha: The First Direct Acceleration of Stochastic Gradient Methods", Z. Allen-Zhu, STOC 2017./
+- Variance reduction for nonconvex optimization, e.g., /"Spider: Near-optimal non-convex optimization via stochastic path-integrated differential estimator", C. Fang, C. Li, Z. Lin, T. Zhang, NeurIPS 2018./
+- Adam-like algorithms, e.g., /"On the convergence of Adam and beyond", S. Reddi, S. Kale, S. Kumar, ICLR 2018./
+- Federated learning, e.g., /"On the convergence of fedavg on non-iid data", X. Li, K. Huang, W. Yang, S. Wang, Z. Zhang, ICLR 2020./
+- Bilevel optimization, e.g., /"A Fully First-Order Method for Stochastic Bilevel Optimization", J. Kwon, D. Kwon, S. Wright, R. Nowak, ICML 2023./
+- Explicit superlinear convergence of quasi-Newton methods, e.g., /"Greedy quasi-Newton methods with explicit superlinear convergence", A. Rodomanov and Y. Nesterov.  SIAM Journal on Optimization, 31(1):785–811, 2021/
+- Zeroth-order optimization, e.g., /"Random gradient-free minimization of convex functions", Y. Nesterov, V. Spokoiny, Foundations of Computational Mathematics, 17(2):527–566, 2017./
+- Nonsmooth nonconvex optimization, e.g., /"Complexity of Finding Stationary Points of Nonsmooth Nonconvex Functions", J. Zhang, H. Lin, S. Jegelka, S. Sra, A. Jadbabaie, ICML 2020./
+- Parameter-free optimization, e.g., /"On the convergence of stochastic gradient descent with adaptive stepsizes.", X. Li, F. Orabona, ICML 2023./
+- \...
 
