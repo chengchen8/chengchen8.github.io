@@ -24,10 +24,11 @@ Date | Topic | Slides | Homework | Material ||
 10.29. | Gradient descent; smoothness and strongly convex |  [optml2024/OptML_04.pdf Lecture 4] | [optml2024/OptML_hw03.pdf  Homework 3], [optml2024/OptML_sol03.pdf sol] | [optml2024/Notes4.pdf Notes 4] ||
 11.5. | More on gradient descent | [optml2024/OptML_05.pdf Lecture 5] | [optml2024/OptML_hw04.zip  Homework 4],  [optml2024/OptML_sol04.pdf sol] | [optml2024/Notes5.pdf Notes 5] ||
 11.12. | Projected gradient descent | [optml2024/OptML_06.pdf Lecture 6] | [optml2024/OptML_hw05.pdf  Homework 5],  [optml2024/OptML_sol05.pdf sol] | [optml2024/Notes6.pdf Notes 6] ||
-11.19. | Subgradient descent  | [optml2024/OptML_07.pdf Lecture 7] | [optml2024/OptML_hw06.pdf  Homework 6] ,  [optml2024/OptML_sol06.pdf sol] | [optml2024/Notes7.pdf Notes 7] ||
-11.26. | Proximal gradient descent  | [optml2024/OptML_08.pdf Lecture 8] | [optml2024/OptML_hw07.zip  Homework 7] | [optml2024/Notes8.pdf Notes 8] ||
+11.19. | Subgradient descent  | [optml2024/OptML_07.pdf Lecture 7] | [optml2024/OptML_hw06.pdf  Homework 6],  [optml2024/OptML_sol06.pdf sol] | [optml2024/Notes7.pdf Notes 7] ||
+11.26. | Proximal gradient descent  | [optml2024/OptML_08.pdf Lecture 8] | [optml2024/OptML_hw07.zip  Homework 7],  [optml2024/OptML_sol07.zip sol] | [optml2024/Notes8.pdf Notes 8] ||
 12.3. | Accelerated gradient descent | [optml2024/OptML_09.pdf Lecture 9] | - | [optml2024/Notes9.pdf Notes 9] ||
-12.10. | Newton and quasi-Newton methods | [optml2024/OptML_10.pdf Lecture 10] | - | [optml2024/Notes10.pdf Notes 10]
+12.10. | Newton and quasi-Newton methods | [optml2024/OptML_10.pdf Lecture 10] | - | [optml2024/Notes10.pdf Notes 10] ||
+12.17. | Stochastic gradient descent | | 
 ~~~
 
 
