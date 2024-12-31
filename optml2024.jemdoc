@@ -29,7 +29,8 @@ Date | Topic | Slides | Homework | Material ||
 12.3. | Accelerated gradient descent | [optml2024/OptML_09.pdf Lecture 9] | - | [optml2024/Notes9.pdf Notes 9] ||
 12.10. | Newton and quasi-Newton methods | [optml2024/OptML_10.pdf Lecture 10] | - | [optml2024/Notes10.pdf Notes 10] ||
 12.17. | Stochastic gradient descent | [optml2024/OptML_11.pdf Lecture 11] | [optml2024/OptML_hw08.zip  Homework 8] | [optml2024/Notes11.pdf Notes 11] ||
-12.24. | Variance reduced methods | [optml2024/OptML_12.pdf Lecture 12] | - |
+12.24. | Variance reduced methods | [optml2024/OptML_12.pdf Lecture 12] | - | [optml2024/Notes12.pdf Notes 12] ||
+12.31. | Nonconvex optimization; minimax optimization | [optml2024/OptML_13.pdf Lecture 13] | - |
 ~~~
 
 
