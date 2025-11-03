@@ -9,9 +9,9 @@ arXiv preprint:2303.16188, 2023.
 
 == Conference Publications
 
-- *PANDA: Partially Approximate Newton Methods for Distributed Minimax Optimization with Unbalanced Dimensions.* \[[https://link.springer.com/content/pdf/10.1007/s10994-025-06813-1.pdf pdf]\] \n
-Minheng Xiao, Chengchang Liu, *Cheng Chen*, John C.S. Lui, Sen Na. \n
-Machine Learning, 2025. \n
+- *A Near-optimal, Scalable and Parallelizable Framework for Stochastic Bandits Robust to Adversarial Corruptions and Beyond.* \n
+Zicheng Hu, *Cheng Chen*\#. \n
+The 39th Conference on Neural Information Processing Systems (NeurIPS), 2025. \n
 
 - *Improved Discretization Complexity Analysis of Consistency Models: Variance Exploding Forward Process and Decay Discretization Scheme.* \[[https://openreview.net/pdf?id=CZTcRSxkfe pdf]\] \n
 Ruofeng Yang, Bo Jiang, *Cheng Chen*, Shuai Li. \n
@@ -74,6 +74,10 @@ The 29th International Joint Conference on Artificial Intelligence (IJCAI), 2020
 The 23th International Conference on Artificial Intelligence and Statistics (AISTATS), 2020.\n
 
 == Journal Papers
+
+- *PANDA: Partially Approximate Newton Methods for Distributed Minimax Optimization with Unbalanced Dimensions.* \[[https://link.springer.com/content/pdf/10.1007/s10994-025-06813-1.pdf pdf]\] \n
+Minheng Xiao, Chengchang Liu, *Cheng Chen*, John C.S. Lui, Sen Na. \n
+Machine Learning, 2025. \n
 
 - *Efficient Policy Evaluation by Matrix Sketching.* \[[https://journal.hep.com.cn/fcs/EN/10.1007/s11704-021-0354-4 link]\]\n
 *Cheng Chen*, Weinan Zhang, Yong Yu.\n

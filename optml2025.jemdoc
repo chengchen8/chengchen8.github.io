@@ -1,0 +1,28 @@
+# jemdoc: optml2025.html, nofooter
+= Optimization in Machine Learning (Fall 2025)
+
+*Lecture Information*\n
+Wed 10:50-12:15 at Tian Jiabing Building 316\n\n
+*Grading*\n
+Your grade will be determined by assignments (40\%), a project (60\%).\n\n
+
+*Teaching Staffs*\n
+- Instructor: [https://chengchen8.github.io Cheng Chen], East 201 Math Building, chchen@sei.ecnu.edu.cn
+- Teaching Asistant: Yuchen Wang, 
+
+*Schedule*\n
+
+~~~
+{}{table}{optml2023schedule}
+Date | Topic | Material | Homework ||
+9.20. | Introduction; Basic mathematics | [optml2023/OptML_01.pdf slides] | [optml2023/OptML_hw1.pdf hw], [optml2023/OptML_sol1.pdf sol] ||
+9.27. | Convex sets; Convex functions; Smooth & Strongly convex | [optml2023/OptML_02.pdf slides], [optml2023/Notes_L2.pdf notes] | [optml2023/OptML_hw2.pdf hw], [optml2023/OptML_sol2.pdf sol] ||
+10.11. | Gradient descent | [optml2023/OptML_03.pdf slides] | [optml2023/OptML_hw3.pdf hw], [optml2023/OptML_sol3.pdf sol] ||
+10.18. | Projected gradient descent; Frank-Wolfe algorithm |  [optml2023/OptML_04.pdf slides] | [optml2023/OptML_hw4.zip hw], [optml2023/OptML_sol4.zip sol] ||
+11.1. | Subgradient; Subgradient descent | [optml2023/OptML_05.pdf slides] | [optml2023/OptML_hw5.pdf hw], [optml2023/OptML_sol5.pdf sol] ||
+11.8. | Proximal operator; Proximal gradient descent |  [optml2023/OptML_06.pdf slides] | [optml2023/OptML_hw6.pdf hw], [optml2023/OptML_sol6.pdf sol] ||
+11.15. | Accelerated gradient methods; Newton and quasi-Newton methods |  [optml2023/OptML_07.pdf slides] | [optml2023/OptML_hw7.zip hw], [optml2023/OptML_sol7.zip sol] ||
+11.22. | Stochastic gradient descent; Variance reduction |  [optml2023/OptML_08.pdf slides] | [optml2023/fista.pdf reading material] ||
+11.29. | Nonconvex optimization; Minimax optimization | [optml2023/OptML_09.pdf slides] | [optml2023/OptML_hw8.pdf hw], [optml2023/OptML_sol8.pdf sol] ||
+12.6. | Presentation | [optml2023/OptML_10.pdf slides] | -
+~~~
