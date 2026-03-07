@@ -9,6 +9,14 @@ arXiv preprint:2303.16188, 2023.
 
 == Conference Publications
 
+- *A Near-Optimal Best-of-Both-Worlds Algorithm for Federated Bandits.* \n
+Zicheng Hu, Zihao Wang, *Cheng Chen*\#. \n
+The 14th International Conference on Learning Representations (ICLR), 2026. \n
+
+- *Robust Decentralized Multi-armed Bandits: From Corruption-Resilience to Byzantine-Resilience.*
+Zicheng Hu, Yuchen Wang, *Cheng Chen*\#. \n
+The 40th AAAI Conference on Artificial Intelligence (AAAI), 2026.
+
 - *A Near-optimal, Scalable and Parallelizable Framework for Stochastic Bandits Robust to Adversarial Corruptions and Beyond.* \n
 Zicheng Hu, *Cheng Chen*\#. \n
 The 39th Conference on Neural Information Processing Systems (NeurIPS), 2025. \n
