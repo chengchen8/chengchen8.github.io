@@ -7,6 +7,10 @@
 Chengchang Liu, *Cheng Chen*, Luo Luo.\n
 arXiv preprint:2303.16188, 2023.
 
+- *Adversarial Attacks on Cooperative Multi-agent Bandits.*\n
+Jinhang Zuo, Zhiyao Zhang, Xuchuang Wang, *Cheng Chen*, Shuai Li, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman.\n
+arXiv preprint:2311.01698, 2023.
+
 == Conference Publications
 
 - *A Near-Optimal Best-of-Both-Worlds Algorithm for Federated Bandits.* \n
@@ -81,7 +85,11 @@ The 29th International Joint Conference on Artificial Intelligence (IJCAI), 2020
 *Cheng Chen*, Ming Gu, Zhihua Zhang, Weinan Zhang, Yong Yu.\n
 The 23th International Conference on Artificial Intelligence and Statistics (AISTATS), 2020.\n
 
-== Journal Papers
+== Journal Publications
+
+- *ATA: An Abstract-Train-Abstract approach for explanation-friendly deep reinforcement learning.* \[[https://www.sciencedirect.com/science/article/abs/pii/S089360802500629X link]\] \n
+Shi Peng, Si Liu, Dapeng Zhi, Peixin Wang, Chenyang Xu, *Cheng Chen*, Min Zhang. \n
+Neural Networks, 2025. \n
 
 - *PANDA: Partially Approximate Newton Methods for Distributed Minimax Optimization with Unbalanced Dimensions.* \[[https://link.springer.com/content/pdf/10.1007/s10994-025-06813-1.pdf pdf]\] \n
 Minheng Xiao, Chengchang Liu, *Cheng Chen*, John C.S. Lui, Sen Na. \n
