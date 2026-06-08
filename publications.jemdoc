@@ -3,6 +3,14 @@
 
 == Preprints
 
+- *Achieving Better Local Regret Bound for Online Non-Convex Bilevel Optimization.* \n
+Tingkai Jia, Haiguang Wang, *Cheng Chen*.\n
+arXiv preprint:2602.06457, 2026.
+
+- *Fully First-Order Algorithms for Online Bilevel Optimization.* \n
+Tingkai Jia, *Cheng Chen*.\n
+arXiv preprint:2602.11665, 2026.
+
 - *Symmetric Rank-k Methods.*\n
 Chengchang Liu, *Cheng Chen*, Luo Luo.\n
 arXiv preprint:2303.16188, 2023.
@@ -13,15 +21,23 @@ arXiv preprint:2311.01698, 2023.
 
 == Conference Publications
 
-- *A Near-Optimal Best-of-Both-Worlds Algorithm for Federated Bandits.* \n
+- *Decentralized Stochastic Nonconvex Optimization under the (L_0,L_1)-Smoothness* \n
+Luo Luo, Xue Cui, Tingkai Jia, *Cheng Chen*\# \n
+Proceedings of the 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD Research Track), 2026.\n
+
+- *The Accumulation of Score Estimation Error in Diffusion Models.* \[[https://openreview.net/pdf?id=YoGDpLRqN8 pdf]\] \n
+Baoxiang He, Valentio Iverson, Shuai Li, *Cheng Chen*, Bo Jiang.\n
+The 43rd International Conference on Machine Learning (ICML), 2026. \n
+
+- *A Near-Optimal Best-of-Both-Worlds Algorithm for Federated Bandits.* \[[https://openreview.net/pdf?id=Lkndkxeemx pdf]\] \n
 Zicheng Hu, Zihao Wang, *Cheng Chen*\#. \n
 The 14th International Conference on Learning Representations (ICLR), 2026. \n
 
-- *Robust Decentralized Multi-armed Bandits: From Corruption-Resilience to Byzantine-Resilience.*\n
+- *Robust Decentralized Multi-armed Bandits: From Corruption-Resilience to Byzantine-Resilience.* \[[https://ojs.aaai.org/index.php/AAAI/article/view/39344/43305 pdf]\]\n
 Zicheng Hu, Yuchen Wang, *Cheng Chen*\#. \n
 The 40th AAAI Conference on Artificial Intelligence (AAAI), 2026.
 
-- *A Near-optimal, Scalable and Parallelizable Framework for Stochastic Bandits Robust to Adversarial Corruptions and Beyond.* \n
+- *A Near-optimal, Scalable and Parallelizable Framework for Stochastic Bandits Robust to Adversarial Corruptions and Beyond.* \[[https://openreview.net/pdf?id=kzdLY8C8oa pdf]\] \n
 Zicheng Hu, *Cheng Chen*\#. \n
 The 39th Conference on Neural Information Processing Systems (NeurIPS), 2025. \n
 
