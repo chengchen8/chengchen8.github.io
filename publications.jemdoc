@@ -3,29 +3,29 @@
 
 == Preprints
 
-- *Achieving Better Local Regret Bound for Online Non-Convex Bilevel Optimization.* \n
-Tingkai Jia, Haiguang Wang, *Cheng Chen*.\n
-arXiv preprint:2602.06457, 2026.
-
-- *Fully First-Order Algorithms for Online Bilevel Optimization.* \n
-Tingkai Jia, *Cheng Chen*.\n
-arXiv preprint:2602.11665, 2026.
-
-- *Symmetric Rank-k Methods.*\n
-Chengchang Liu, *Cheng Chen*, Luo Luo.\n
-arXiv preprint:2303.16188, 2023.
-
 - *Adversarial Attacks on Cooperative Multi-agent Bandits.*\n
 Jinhang Zuo, Zhiyao Zhang, Xuchuang Wang, *Cheng Chen*, Shuai Li, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman.\n
 arXiv preprint:2311.01698, 2023.
 
 == Conference Publications
 
+- *OPSRL-SSP: Optimistic Posterior Sampling for Stochastic Shortest Path with Minimax-Optimal Regret* \n
+Yiming Xu, Xian Wei, *Cheng Chen*\#. \n
+The 40th Conference on Neural Information Processing Systems (NeurIPS), 2026. \n
+
+- *Fully First-Order Algorithms for Online Non-Convex Bilevel Optimization* \n
+Tingkai Jia, Ting Wang, *Cheng Chen*\#. \n
+The 40th Conference on Neural Information Processing Systems (NeurIPS), 2026. \n
+
+- *Achieving Better Local Regret Bound for Online Non-Convex Bilevel Optimization* \n
+Tingkai Jia, Haiguang Wang, Ting Wang, *Cheng Chen*\#. \n
+The 40th Conference on Neural Information Processing Systems (NeurIPS), 2026. \n
+
 - *Evaluating the Role of Great Pre-trained Diffusion Models in Few-shot Phase: Warm-up and Acceleration* \n
 Ruofeng Yang, Yongcan Li, Bo Jiang, *Cheng Chen*, Shuai Li. \n
 Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence (UAI), 2026. \n
 
-- *Decentralized Stochastic Nonconvex Optimization under the (L_0,L_1)-Smoothness* \n
+- *Decentralized Stochastic Nonconvex Optimization under the ($L_0$,$L_1$)-Smoothness* \n
 Luo Luo, Xue Cui, Tingkai Jia, *Cheng Chen*\# \n
 Proceedings of the 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD Research Track), 2026.\n
 
@@ -35,6 +35,10 @@ The 43rd International Conference on Machine Learning (ICML), 2026. \n
 
 - *A Near-Optimal Best-of-Both-Worlds Algorithm for Federated Bandits.* \[[https://openreview.net/pdf?id=Lkndkxeemx pdf]\] \n
 Zicheng Hu, Zihao Wang, *Cheng Chen*\#. \n
+The 14th International Conference on Learning Representations (ICLR), 2026. \n
+
+- *Multi-Subspace Multi-Modal Modeling for Diffusion Models: Estimation, Convergence and Mixture of Experts* \[[https://openreview.net/pdf?id=MPWIM6rxxU pdf]\] \n
+Ruofeng Yang, Yongcan Li, Bo Jiang, *Cheng Chen*, Shuai Li. \n
 The 14th International Conference on Learning Representations (ICLR), 2026. \n
 
 - *Robust Decentralized Multi-armed Bandits: From Corruption-Resilience to Byzantine-Resilience.* \[[https://ojs.aaai.org/index.php/AAAI/article/view/39344/43305 pdf]\]\n
@@ -106,6 +110,10 @@ The 29th International Joint Conference on Artificial Intelligence (IJCAI), 2020
 The 23th International Conference on Artificial Intelligence and Statistics (AISTATS), 2020.\n
 
 == Journal Publications
+
+- *Symmetric Rank-k Methods.* \[[https://jmlr.org/papers/volume27/26-0038/26-0038.pdf pdf]\]\n
+Chengchang Liu, *Cheng Chen*, Luo Luo.\n
+Journal of Machine Learning Research (JMLR), 27(195):1−33, 2026.
 
 - *ATA: An Abstract-Train-Abstract approach for explanation-friendly deep reinforcement learning.* \[[https://www.sciencedirect.com/science/article/abs/pii/S089360802500629X link]\] \n
 Shi Peng, Si Liu, Dapeng Zhi, Peixin Wang, Chenyang Xu, *Cheng Chen*, Min Zhang. \n
